@@ -16,37 +16,24 @@
 
 ## Technologies
 
-Backend:
+FrontEnd :
+
    <p> React Native: Building engaging user interfaces with JavaScript. 
         <a href="https://reactjs.org/"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
         </a>
     </p>
-    
-    <p> HTML: The foundation for structuring web content.
-        <a href="https://www.w3.org/html/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-        </a> 
-    </p>
-    
-    <p> CSS: Styling to make your website visually appealing. 
+   <p> CSS: Styling to make your website visually appealing. 
         <a href="https://www.w3schools.com/css/"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
         </a> 
     </p>
-    
-    <p> JavaScript: A crucial language for interactivity and functionality.
+     <p> JavaScript: A crucial language for interactivity and functionality.
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
         <img src="https://user-images.githubusercontent.com/48143100/163075516-9b38424a-eec9-411f-8718-6facb953d642.png" alt="javascript" width="40" height="40"/> </a>
     </p>
-    <p> Expo Go:
-        
-    </p>
+    
 
-     <p> Metro Bundler:
-        
-    </p>
-  
   
  
 
