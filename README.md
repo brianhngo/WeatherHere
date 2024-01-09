@@ -42,6 +42,12 @@ FrontEnd :
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
         </a> 
   </p>
+
+   <p> Expo: IOS Simulator
+     <a href="https://expo.dev/"> 
+        <img src="https://github.com/brianhngo/WeatherHere/blob/main/public/Expo.svg" alt="css3" width="40" height="40"/> 
+        </a> 
+  </p>
     
 
   
